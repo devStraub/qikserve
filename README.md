@@ -2,4 +2,4 @@
 
   * You can see the endpoints on link /swagger-ui.html
 
-  * The questionary resposes be is the questionary.txt;
+  * The questionary resposes are in the questionary.txt;
