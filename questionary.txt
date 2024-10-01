@@ -1,0 +1,60 @@
+Follow up questions
+1. How long did you spend on the test? What would you add if you had more time?
+	-> 8 hours.
+	-> An interface for integrate with API, integration tests and more unitary tests.
+
+2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that
+shows how you've used it.
+	-> I´m use java 17. 
+	-> I didn't use anything new. Why complicate it? Simple is the best.
+	
+3. What did you find most difficult?
+	-> time to do it.
+
+4. What mechanism did you put in place to track down issues in production on this code? If you didn’t put anything, write down what you
+could do.
+	-> sending email when an exception occurs.
+
+5. The Wiremock represents one source of information. We should be prepared to integrate with more sources. List the steps that we would
+need to take to add more sources of items with diferent formats and promotions.
+	-> To insert products from any source, simply have the attributes id, name and price. The project have others endpoints and entities allow to expand. Just use and improve it.
+	
+	
+-------------------------------------
+
+Questions
+Written and verbal communication skills play a pivotal role in our culture and are key to success within our organization. Some individuals
+excel in written communication, while others shine in verbal interactions. We believe in providing you with an opportunity to demonstrate
+proficiency in both areas.
+Select one of the questions below and submit your answer before your interview!
+1. Share a recent judgment call you've made within the past 12 months that couldn't be thoroughly analyzed beforehand. Focus on a
+business-related issue. Whether it was a significant decision or a smaller one, describe the situation, the alternatives you considered,
+and your decision-making process. Explain why you chose the judgment call you did over the alternatives.
+
+	-> In the past 12 months, I faced a situation where I had to make an important decision without being able to fully analyze the data. 
+	We were implementing a new project management system, but midway through the process, an unforeseen issue arose: the team had to decide 
+	whether to continue with the tool that had been partially implemented or switch to an alternative that seemed more promising. 
+	The decision was critical, as switching tools at that point would mean delays and additional costs.
+
+	I gathered the IT team and project managers to discuss the options. The tool we were using offered security since it had already been partially implemented, 
+	but its limited functionalities could present future challenges. The alternative offered more advanced features, greater scalability, 
+	and easy integration with other tools we were already using, but it would require more time for adaptation.
+
+	I chose to go with the new tool, even though I knew it would cause a short delay. My decision was based on long-term potential and feedback from the team about the new tool's ease of use. 
+	In the end, the transition was smoother than expected, and the decision proved to be the right one: we successfully implemented a more robust and efficient system with greater flexibility for future adjustments. 
+	This decision turned out to be valuable in terms of both productivity and team satisfaction, as they are now using a modern and integrated solution.
+
+2. Describe the most innovative or inventive endeavor you've undertaken. This could be your idea for a process change, a new product
+concept, a unique metric, or a novel customer interface. Do not share confidentail information! Provide context to help us understand the
+innovation. What problem were you addressing, and what were the outcomes? Why was solving this problem important, and what was
+the impact of the change?
+
+	-> One of the most innovative projects I've worked on recently was the creation of a unique metric to monitor the operational efficiency of our customer support teams. 
+	Previously, our performance metrics were fragmented and did not accurately reflect the customer experience, making it difficult to make decisions for improvements.
+
+	I identified the need to consolidate these metrics into a single indicator that would truly show the impact of customer support. I developed the idea of a "Customer Support Efficiency Index" (CSEI), 
+	which combined variables such as response time, first-contact resolution, and customer feedback. The biggest challenge was finding a fair balance between these metrics so that the index would be realistic and applicable.
+
+	I implemented the CSEI as a real-time dashboard for support leadership. The innovation brought almost immediate results: the team became more aware of how small improvements in response time or direct problem resolution affected the overall index, 
+	resulting in more focused performance. The impact was a 20% reduction in the average resolution time and a significant increase in customer satisfaction. 
+	This change was crucial for our continuous growth, as it enabled quick and efficient adaptation to customer needs.
